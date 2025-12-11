@@ -1,6 +1,6 @@
 ## Data-Films
 
-This HTML project was made as a student project to display an interactive web pinpointing filming locations in San Fracisco and displaying informations on said films by clicking on the highlighted locations.
+This HTML project was made as a student project to display an interactive web pinpointing filming locations in San Fracisco using geoJSON data and displaying informations on said films by clicking on the highlighted locations.
 
 ### Technologies
 - HTML/CSS
